@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+Servers
+target
+build
+bin
+.metadata
+node_modules
+dist
+.env
